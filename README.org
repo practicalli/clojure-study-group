@@ -1,0 +1,9 @@
+* Clojure Virtual Study Group
+
+A website for the live broadcasting on YouTube of the Practicalli Clojure virtual study group.
+
+The videos are also available via the [[https://www.youtube.com/playlist?list=PLy9I_IfUBzKJSgctCJaRYcnF6kZdiZ5ku][Practicalli study group YouTube playlist]]
+
+This site was built with ClojureScript and Bootstrap CSS library.
+
+** Copyright (C) 2019 by Practicalli
